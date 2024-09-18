@@ -1,0 +1,11 @@
+--typeblanklines preserve
+--indent 4
+--commas inline
+--self init-only
+--wraparguments before-first
+--xcodeindentation enabled
+
+--disable wrapMultilineStatementBraces
+--disable redundantLetError
+
+--header \n {file}\n SwiftChess\n\n Copyright © 2024 Adam Young.\n

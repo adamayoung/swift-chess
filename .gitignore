@@ -1,0 +1,11 @@
+.DS_Store
+.docc-build
+.swiftpm
+/.build
+/*.xcodeproj
+xcuserdata/
+.vscode
+*.xctestplan
+docs/
+info.lcov
+default.profraw
